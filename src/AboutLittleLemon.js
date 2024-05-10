@@ -1,6 +1,9 @@
 function AboutLittleLemon() {
     return (
-        <h1>About AboutLittleLemon</h1>
+        <div>
+            <h1>About AboutLittleLemon</h1>
+            <p>Restaurant</p>
+        </div>
     )
 }
 
