@@ -3,7 +3,7 @@ function AboutLittleLemon() {
         <div>
             <h1>About AboutLittleLemon</h1>
             <p>Restaurant</p>
-        </div>
+        </div>  
     )
 }
 
